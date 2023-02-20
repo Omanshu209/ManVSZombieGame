@@ -1,5 +1,6 @@
 # Man VS Zombie Game
 A simple Zombie apocalypse survival game which includes three zombies and a controllable character! Score points by shooting the zombies through bullets!The game involves a player who must shoot down enemies to earn points while avoiding being hit by the enemy.
+
 ![Screenshot_2023-02-19-18-40-05-545](https://user-images.githubusercontent.com/114089324/219950149-1d53b708-b6cf-4f74-902f-4f5075f13332.jpeg)
 
 ## How to Play:
