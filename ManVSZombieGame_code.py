@@ -1,4 +1,3 @@
-
 import pygame
 import random
 
@@ -8,11 +7,9 @@ win = pygame.display.set_mode((560, 480))
 
 pygame.display.set_caption("Game!")
 
-walkRight = [pygame.image.load('assests/characters/R1.png'), pygame.image.load('assests/characters/R2.png'), pygame.image.load('assests/characters/R3.png'), pygame.image.load('assests/characters/R4.png'), pygame.image.load(
-    'assests/characters/R5.png'), pygame.image.load('assests/characters/R6.png'), pygame.image.load('assests/characters/R7.png'), pygame.image.load('assests/characters/R8.png'), pygame.image.load('assests/characters/R9.png')]
+walkRight = [pygame.image.load('assests/characters/R1.png'), pygame.image.load('assests/characters/R2.png'), pygame.image.load('assests/characters/R3.png'), pygame.image.load('assests/characters/R4.png'), pygame.image.load('assests/characters/R5.png'), pygame.image.load('assests/characters/R6.png'), pygame.image.load('assests/characters/R7.png'), pygame.image.load('assests/characters/R8.png'), pygame.image.load('assests/characters/R9.png')]
 
-walkLeft = [pygame.image.load('assests/characters/L1.png'), pygame.image.load('assests/characters/L2.png'), pygame.image.load('assests/characters/L3.png'), pygame.image.load('assests/characters/L4.png'), pygame.image.load(
-    'assests/characters/L5.png'), pygame.image.load('assests/characters/L6.png'), pygame.image.load('assests/characters/L7.png'), pygame.image.load('assests/characters/L8.png'), pygame.image.load('assests/characters/L9.png')]
+walkLeft = [pygame.image.load('assests/characters/L1.png'), pygame.image.load('assests/characters/L2.png'), pygame.image.load('assests/characters/L3.png'), pygame.image.load('assests/characters/L4.png'), pygame.image.load('assests/characters/L5.png'), pygame.image.load('assests/characters/L6.png'), pygame.image.load('assests/characters/L7.png'), pygame.image.load('assests/characters/L8.png'), pygame.image.load('assests/characters/L9.png')]
 
 bg = pygame.image.load('assests/bg/bg3i.jpg')
 char = pygame.image.load('assests/characters/standing.png')
